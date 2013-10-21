@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pizzapy</title><link href="/" rel="alternate"></link><link href="/feeds/meetups.atom.xml" rel="self"></link><id>/</id><updated>2013-10-21T08:00:00+08:00</updated><entry><title>October 2013 Meetup</title><link href="/october-2013-meetup.html" rel="alternate"></link><updated>2013-10-21T08:00:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2013-10-21:october-2013-meetup.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Meetup&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pizzapy</title><link href="/" rel="alternate"></link><link href="/feeds/Meetups.atom.xml" rel="self"></link><id>/</id><updated>2013-10-21T08:00:00+08:00</updated><entry><title>October 2013 Meetup</title><link href="/october-2013-meetup.html" rel="alternate"></link><updated>2013-10-21T08:00:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2013-10-21:october-2013-meetup.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Meetup&lt;br /&gt;
 &lt;strong&gt;When&lt;/strong&gt;: 1383001200&lt;br /&gt;
 &lt;strong&gt;Where&lt;/strong&gt;: Function Room, Handuraw Pizza, Gorordo St., Cebu City, PH&lt;br /&gt;
 &lt;strong&gt;Talks&lt;/strong&gt;: ?&lt;/p&gt;
