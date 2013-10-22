@@ -14,3 +14,9 @@ Talk                    | Speaker         | Handle
 ----------------------- | --------------- | ------------
 Pip + Virtualenv        | Daryl Yu        | [@dar9000](https://twitter.com/dar9000)
 Concurrency with Gevent | Marconi Moreto  | [@marconijr](https://twitter.com/marconijr)
+
+## Sponsors
+
+- [Symph](http://sym.ph)
+
+More sponsors are always welcome, feel free to [contact us](mailto:admin@pizzapy.ph).

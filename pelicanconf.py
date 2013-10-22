@@ -16,12 +16,14 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  ()
+LINKS =  (('Want to sponsor our next meetup?', 'mailto:admin@pizzapy.ph'),)
 
 # Social widget
 SOCIAL = ()
 
 DEFAULT_PAGINATION = False
+
+THEME = 'themes/notmyidea'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
