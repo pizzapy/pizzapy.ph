@@ -7,6 +7,10 @@ Author: Marconi Moreto
 **What**: Meetup  
 **When**: 1383001200  
 **Where**: Function Room, Handuraw Pizza, Gorordo St., Cebu City, PH  
-**Talks**: ?
 
-We are still finalising the talks so please visit this page soon.
+## Talks
+
+Talk                    | Speaker         | Handle
+----------------------- | --------------- | ------------
+Pip + Virtualenv        | Daryl Yu        | [@dar9000](https://twitter.com/dar9000)
+Concurrency with Gevent | Marconi Moreto  | [@marconijr](https://twitter.com/marconijr)
