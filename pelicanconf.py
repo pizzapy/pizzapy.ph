@@ -17,7 +17,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Want to sponsor our next meetup?', 'mailto:admin@pizzapy.ph'),)
+LINKS =  (('Want to sponsor our next meetup?', 'mailto:admin@pizzapy.ph'),
+          ('Follow us @pizzapyph', 'https://twitter.com/pizzapyph'))
 
 # Social widget
 SOCIAL = ()
