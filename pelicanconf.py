@@ -4,13 +4,14 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Marconi Moreto'
 SITENAME = u'Pizzapy'
-SITEURL = ''
+SITEURL = 'http://pizzapy.ph'
 
 TIMEZONE = 'Asia/Hong_Kong'
 
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
+FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
