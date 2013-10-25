@@ -38,4 +38,12 @@ a:hover {
 
 #content {
   margin-bottom: 20px;
+  padding-left: 6%;
+}
+
+@media all and (max-width: 998px) {
+  #content {
+    padding-left: 1.5%;
+    width: 100%;
+  }
 }
