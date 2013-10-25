@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% if articles %}
+    {% for article in articles_page.object_list %}        
+        <div class="post">
+          <h2>
+            <a href="{{ SITEURL }}/{{ article.url }}">
+              <i class="calendar icon"></i> {{ article.title }}
+            </a>
+          </h2> 
+          {{ article.content }}
+        </div>
+
+        {% if not loop.last %}
+          <div class="ui horizontal icon divider">
+            <i class="circular code icon"></i>
+          </div>
+        {% else %}
+          {% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
+            {% include 'pagination.html' %}
+          {% endif %}
+        {% endif %}        
+    {% endfor %}
+  {% else %}
+    <p>There are no meetups yet.</p>
+  {% endif %}
+{% endblock %}

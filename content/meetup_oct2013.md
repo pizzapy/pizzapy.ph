@@ -10,10 +10,27 @@ Author: Marconi Moreto
 
 ## Talks
 
-Talk                    | Speaker         | Handle
------------------------ | --------------- | ------------
-Pip + Virtualenv        | Daryl Yu        | [@dar9000](https://twitter.com/dar9000)
-Concurrency with Gevent | Marconi Moreto  | [@marconimjr](https://twitter.com/marconimjr)
+<table class="ui three column table segment">
+  <thead>
+    <tr>
+      <th>Talk</th>
+      <th>Speaker</th>
+      <th>Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pip + Virtualenv</td>
+      <td>Daryl Yu</td>
+      <td><a href="https://twitter.com/dar9000">@dar9000</a></td>
+    </tr>
+    <tr>
+      <td>Concurrency with Gevent</td>
+      <td>Marconi Moreto</td>
+      <td><a href="https://twitter.com/marconimjr">@marconimjr</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Sponsors
 

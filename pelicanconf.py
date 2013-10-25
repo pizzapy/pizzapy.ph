@@ -25,7 +25,16 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = False
 
-THEME = 'themes/notmyidea'
+THEME = 'themes/chicken-and-pesto'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+MENUITEMS = (
+    ('Meetups', 'users', '/category/meetups.html'),
+    ('Talk Submission', 'chat', '/pages/talk-submission.html'),
+    ('Sponsorship', 'tint', '/pages/sponsorship.html'),
+    ('About', 'help', '/pages/about.html'),
+)
+
+TWITTER = ('@pizzapyph', 'https://twitter.com/pizzapyph')
