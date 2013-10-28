@@ -1,0 +1,3 @@
+[submodule "themes/chicken-and-pesto"]
+	path = themes/chicken-and-pesto
+	url = https://github.com/pizzapy/chicken-and-pesto.git
