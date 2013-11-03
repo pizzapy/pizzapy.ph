@@ -12,7 +12,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=pizzapy.ph
+SSH_HOST=direct.pizzapy.ph
 SSH_PORT=22
 SSH_USER=marconi
 SSH_TARGET_DIR=/home/marconi/pizzapy

@@ -7,7 +7,7 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'marconi@pizzapy.ph:22'
+production = 'marconi@direct.pizzapy.ph:22'
 dest_path = '/home/marconi/pizzapy'
 
 # Rackspace Cloud Files configuration settings

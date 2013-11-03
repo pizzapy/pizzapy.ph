@@ -32,6 +32,7 @@ THEME = 'themes/chicken-and-pesto'
 
 MENUITEMS = (
     ('Meetups', 'users', '/category/meetups.html'),
+    ('Archive', 'archive', '/category/archive.html'),
     ('Talk Submission', 'chat', '/pages/talk-submission.html'),
     ('Sponsorship', 'tint', '/pages/sponsorship.html'),
     ('About', 'help', '/pages/about.html'),

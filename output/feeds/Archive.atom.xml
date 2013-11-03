@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pizzapy</title><link href="/" rel="alternate"></link><link href="http://pizzapy.ph/feeds/Archive.atom.xml" rel="self"></link><id>/</id><updated>2013-11-04T05:03:00+08:00</updated><entry><title>October 2013</title><link href="/october-2013-archive.html" rel="alternate"></link><updated>2013-11-04T05:03:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2013-11-04:october-2013-archive.html</id><summary type="html">&lt;h2&gt;Pip + Virtualenv&lt;/h2&gt;
+&lt;p&gt;By &lt;a href="https://twitter.com/dar9000"&gt;Daryl Yu&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/27856918" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;h2&gt;Concurrency with Gevent&lt;/h2&gt;
+&lt;p&gt;By &lt;a href="https://twitter.com/marconimjr"&gt;Marconi Moreto&lt;/a&gt;&lt;/p&gt;
+&lt;script async class="speakerdeck-embed" data-id="f264904022cd01315ca04effc8ca0bda" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;</summary></entry></feed>
