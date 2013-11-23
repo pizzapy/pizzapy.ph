@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pizzapy</title><link href="/" rel="alternate"></link><link href="http://pizzapy.ph/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2013-11-04T05:03:00+08:00</updated><entry><title>October 2013</title><link href="/october-2013-archive.html" rel="alternate"></link><updated>2013-11-04T05:03:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2013-11-04:october-2013-archive.html</id><summary type="html">&lt;h2&gt;Pip + Virtualenv&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pizzapy</title><link href="/" rel="alternate"></link><link href="http://pizzapy.ph/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2013-11-23T10:01:00+08:00</updated><entry><title>November 2013 Meetup</title><link href="/november-2013-meetup.html" rel="alternate"></link><updated>2013-11-23T10:01:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2013-11-23:november-2013-meetup.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Meetup&lt;br /&gt;
+&lt;strong&gt;When&lt;/strong&gt;: 1385463600&lt;br /&gt;
+&lt;strong&gt;Where&lt;/strong&gt;: Function Room, Handuraw Pizza, Gorordo St., Cebu City, PH  &lt;/p&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;table class="ui three column table segment"&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Talk&lt;/th&gt;
+      &lt;th&gt;Speaker&lt;/th&gt;
+      &lt;th&gt;Handle&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pep8&lt;/td&gt;
+      &lt;td&gt;Daryl Yu&lt;/td&gt;
+      &lt;td&gt;&lt;a href="https://twitter.com/dar9000"&gt;@dar9000&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gitiquette&lt;/td&gt;
+      &lt;td&gt;Daryl Yu&lt;/td&gt;
+      &lt;td&gt;&lt;a href="https://twitter.com/dar9000"&gt;@dar9000&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Google App Engine: the Good, the Bad, and the Ugly&lt;/td&gt;
+      &lt;td&gt;Albert Padin&lt;/td&gt;
+      &lt;td&gt;&lt;a href="https://twitter.com/albertpadin"&gt;@albertpadin&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;Sponsors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.engagespark.com"&gt;engageSPARK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More sponsors are always welcome, feel free to &lt;a href="mailto:admin@pizzapy.ph"&gt;contact us&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>October 2013</title><link href="/october-2013-archive.html" rel="alternate"></link><updated>2013-11-04T05:03:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2013-11-04:october-2013-archive.html</id><summary type="html">&lt;h2&gt;Pip + Virtualenv&lt;/h2&gt;
 &lt;p&gt;By &lt;a href="https://twitter.com/dar9000"&gt;Daryl Yu&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/27856918" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen&gt; &lt;/iframe&gt;
+&lt;script async class="speakerdeck-embed" data-id="7d4b1c10271f013135f4421b84699a43" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;
 
 &lt;h2&gt;Concurrency with Gevent&lt;/h2&gt;
 &lt;p&gt;By &lt;a href="https://twitter.com/marconimjr"&gt;Marconi Moreto&lt;/a&gt;&lt;/p&gt;
