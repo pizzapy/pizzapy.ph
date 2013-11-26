@@ -20,11 +20,6 @@ Author: Marconi Moreto
   </thead>
   <tbody>
     <tr>
-      <td>Pep8</td>
-      <td>Daryl Yu</td>
-      <td><a href="https://twitter.com/dar9000">@dar9000</a></td>
-    </tr>
-    <tr>
       <td>Gitiquette</td>
       <td>Daryl Yu</td>
       <td><a href="https://twitter.com/dar9000">@dar9000</a></td>
