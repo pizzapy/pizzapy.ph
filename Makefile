@@ -14,8 +14,8 @@ FTP_TARGET_DIR=/
 
 SSH_HOST=direct.pizzapy.ph
 SSH_PORT=22
-SSH_USER=marconi
-SSH_TARGET_DIR=/home/marconi/pizzapy
+SSH_USER=pizzapy
+SSH_TARGET_DIR=/home/pizzapy/pizzapy
 
 S3_BUCKET=my_s3_bucket
 
