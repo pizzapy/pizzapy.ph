@@ -6,7 +6,7 @@ Author: Marconi Moreto
 
 **What**: Meetup  
 **When**: 1390906800  
-**Where**: TBA
+**Where**: Room 1601, Tower 3, Crown Regency Hotel, Osmeña Boulevard, Cebu City, Philippines
 
 ## Talks
 
@@ -40,6 +40,6 @@ This year couldn't be better, the 2nd [PyCon Philippines](http://pycon.python.ph
 
 ## Sponsors
 
-- [Daryl](https://twitter.com/dar9000) and [Marconi](https://twitter.com/marconimjr)
+- StarTechUp
 
 More sponsors are always welcome, feel free to [contact us](mailto:admin@pizzapy.ph).
