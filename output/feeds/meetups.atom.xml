@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pizzapy</title><link href="/" rel="alternate"></link><link href="http://pizzapy.ph/feeds/Meetups.atom.xml" rel="self"></link><id>/</id><updated>2014-01-09T02:14:00+08:00</updated><entry><title>January 2014 Meetup</title><link href="/january-2014-meetup.html" rel="alternate"></link><updated>2014-01-09T02:14:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2014-01-09:january-2014-meetup.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Meetup&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pizzapy</title><link href="/" rel="alternate"></link><link href="http://pizzapy.ph/feeds/Meetups.atom.xml" rel="self"></link><id>/</id><updated>2014-01-30T04:33:00+08:00</updated><entry><title>February 2014 Meetup</title><link href="/february-2014-meetup.html" rel="alternate"></link><updated>2014-01-30T04:33:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2014-01-30:february-2014-meetup.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Meetup&lt;br /&gt;
+&lt;strong&gt;When&lt;/strong&gt;: 1393326000&lt;br /&gt;
+&lt;strong&gt;Where&lt;/strong&gt;: TBA&lt;/p&gt;
+&lt;p&gt;We just had our first meetup this year and it was stupendous! and now we have another great lineup of talks for next month's meetup.&lt;/p&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;table class="ui three column table segment"&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Talk&lt;/th&gt;
+      &lt;th&gt;Speaker&lt;/th&gt;
+      &lt;th&gt;Handle&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Assets Build Automation&lt;/td&gt;
+      &lt;td&gt;Marconi Moreto&lt;/td&gt;
+      &lt;td&gt;&lt;a href="https://twitter.com/marconimjr"&gt;@marconimjr&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Common Newbie Mistakes in Python&lt;/td&gt;
+      &lt;td&gt;Daryl Yu&lt;/td&gt;
+      &lt;td&gt;&lt;a href="https://twitter.com/dar9000"&gt;@dar9000&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;Sponsors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/dar9000"&gt;Daryl&lt;/a&gt; and &lt;a href="https://twitter.com/marconimjr"&gt;Marconi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More sponsors are always welcome, feel free to &lt;a href="mailto:admin@pizzapy.ph"&gt;contact us&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>January 2014 Meetup</title><link href="/january-2014-meetup.html" rel="alternate"></link><updated>2014-01-09T02:14:00+08:00</updated><author><name>Marconi Moreto</name></author><id>tag:,2014-01-09:january-2014-meetup.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Meetup&lt;br /&gt;
 &lt;strong&gt;When&lt;/strong&gt;: 1390906800&lt;br /&gt;
 &lt;strong&gt;Where&lt;/strong&gt;: Room 1601, Tower 3, Crown Regency Hotel, Osmeña Boulevard, Cebu City, Philippines&lt;/p&gt;
 &lt;h2&gt;Talks&lt;/h2&gt;
