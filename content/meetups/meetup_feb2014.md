@@ -5,8 +5,8 @@ Slug: february-2014-meetup
 Author: Marconi Moreto
 
 **What**: Meetup  
-**When**: 1393326000  
-**Where**: TBA
+**When**: Feb. 25 2014 08:00PM  
+**Where**: Function Room, Handuraw Pizza, Gorordo St., Cebu City, PH
 
 We just had our first meetup this year and it was stupendous! and now we have another great lineup of talks for next month's meetup.
 
